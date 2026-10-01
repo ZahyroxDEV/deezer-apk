@@ -1,3 +1,4 @@
+1)rend toi dans la section releases ou sortie sellon la langue et cliquer sur deezer
 1)télécharger le .apk 
 2)une fenêtre doit s'ouvrir ne vous inquiété pas c'est normal cliquer sur le bouton "télécharger aquand même"
 3)attendre la fin du téléchargement puis ouvrer le .apk 
